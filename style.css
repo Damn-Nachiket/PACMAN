@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Emulogic';
+    src: url('assets/Emulogic-zrEw.ttf') format('woff2'),
+         url('assets/Emulogic-zrEw.ttf') format('woff');
+}
+
+canvas {
+    font-family: 'Emulogic', sans-serif;
+}
